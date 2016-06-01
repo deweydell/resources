@@ -10,3 +10,4 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Codrops](http://tympanus.net/codrops/)
 - [CSS Tricks](https://css-tricks.com/)
+- [CSS Guidelines, by Harry Roberts](http://cssguidelin.es/)
