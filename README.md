@@ -24,7 +24,7 @@
   - [Palest.blue](http://palest.blue)
   - [Slow Verb](http://www.slowverb.com/)
 
-### ✦ reading material
+### reading material
 #### books
 - [The Nature of Code by Dan Shiffman](natureofcode.com)
 
