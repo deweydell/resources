@@ -16,6 +16,7 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Guidelines, by Harry Roberts](http://cssguidelin.es/)
 - [Unminify](http://unminify.com/)
+- [Typography Handbook](http://typographyhandbook.com/)
 
 ### ✦ art/creative ✦
 - [Olia Lialina](http://art.teleportacia.org/)
