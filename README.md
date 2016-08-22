@@ -19,6 +19,7 @@
 - [Unminify](http://unminify.com/)
 - [Typography Handbook](http://typographyhandbook.com/)
 - [BEM Methodology](https://en.bem.info/methodology/key-concepts/)
+- [Coolers](coolers.co)
 
 ### art/creative
 - [Olia Lialina](http://art.teleportacia.org/)
