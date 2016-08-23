@@ -14,7 +14,7 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Codrops](http://tympanus.net/codrops/)
   - [CSS Reference](http://tympanus.net/codrops/css_reference/)
-  - [Flexbox Reference by Codrops](http://tympanus.net/codrops/css_reference/flexbox/)
+  - [Flexbox Reference](http://tympanus.net/codrops/css_reference/flexbox/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Guidelines, by Harry Roberts](http://cssguidelin.es/)
 - [Unminify](http://unminify.com/)
