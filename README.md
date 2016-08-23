@@ -30,6 +30,7 @@
 - [Damon Zucconi](http://www.damonzucconi.com/)
   - [Palest.blue](http://palest.blue)
   - [Slow Verb](http://www.slowverb.com/)
+- [Recurse Center](https://www.recurse.com/) - Like a writer's workshop for programmers
 
 ### reading material
 #### books
