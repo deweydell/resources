@@ -22,6 +22,7 @@
 - [Coolers](coolers.co)
 - [Codeguide by @mdo](http://codeguide.co/)
 - [WTF Forms](http://wtfforms.com/)
+- [Flexbox Reference by Codrops](http://tympanus.net/codrops/css_reference/flexbox/)
 
 ### art/creative
 - [Olia Lialina](http://art.teleportacia.org/)
