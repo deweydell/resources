@@ -20,6 +20,7 @@
 - [Typography Handbook](http://typographyhandbook.com/)
 - [BEM Methodology](https://en.bem.info/methodology/key-concepts/)
 - [Coolers](coolers.co)
+- [WTF Forms](http://wtfforms.com/)
 
 ### art/creative
 - [Olia Lialina](http://art.teleportacia.org/)
