@@ -30,6 +30,7 @@
 ### reading material
 #### books
 - [The Nature of Code by Dan Shiffman](natureofcode.com)
+- [Javascript & Jquery by John Duckett](http://javascriptbook.com/)
 
 #### articles
 - [What is Code by Paul Ford](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
