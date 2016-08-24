@@ -20,7 +20,7 @@
 - [Unminify](http://unminify.com/)
 - [Typography Handbook](http://typographyhandbook.com/)
 - [BEM Methodology](https://en.bem.info/methodology/key-concepts/)
-- [Coolers](coolers.co)
+- [Coolers](https://coolors.co/)
 - [Codeguide by @mdo](http://codeguide.co/)
 - [WTF Forms](http://wtfforms.com/)
 
