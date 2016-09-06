@@ -23,6 +23,7 @@
 - [Coolers](https://coolors.co/)
 - [Codeguide by @mdo](http://codeguide.co/)
 - [WTF Forms](http://wtfforms.com/)
+- [Image Optimizer for Mac](https://imageoptim.com/mac)
 
 
 ### art/creative
