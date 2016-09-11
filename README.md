@@ -17,7 +17,6 @@
   - [Flexbox Reference](http://tympanus.net/codrops/css_reference/flexbox/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Guidelines, by Harry Roberts](http://cssguidelin.es/)
-- [Unminify](http://unminify.com/)
 - [Typography Handbook](http://typographyhandbook.com/)
 - [BEM Methodology](https://en.bem.info/methodology/key-concepts/)
 - [Coolers](https://coolors.co/)
@@ -25,6 +24,9 @@
 - [WTF Forms](http://wtfforms.com/)
 - [Image Optimizer for Mac](https://imageoptim.com/mac)
 
+### debugging
+- [Oh Shit, Git](http://ohshitgit.com/)
+- [Unminify](http://unminify.com/)
 
 ### art/creative
 - [Olia Lialina](http://art.teleportacia.org/)
