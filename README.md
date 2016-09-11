@@ -16,6 +16,7 @@
   - [CSS Reference](http://tympanus.net/codrops/css_reference/)
   - [Flexbox Reference](http://tympanus.net/codrops/css_reference/flexbox/)
 - [CSS Tricks](https://css-tricks.com/)
+- [Elements of Typographic Style applied to the web](http://webtypography.net/toc)
 - [CSS Guidelines, by Harry Roberts](http://cssguidelin.es/)
 - [Typography Handbook](http://typographyhandbook.com/)
 - [BEM Methodology](https://en.bem.info/methodology/key-concepts/)
