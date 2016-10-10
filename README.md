@@ -26,6 +26,10 @@
 - [Image Optimizer for Mac](https://imageoptim.com/mac)
 - [Responsive Data Tables, csstricks](https://css-tricks.com/responsive-data-table-roundup/)
 
+### data visualization
+- [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
+- [See, Think, Design, Produce talk](http://style.org/stdp2/)
+
 ### debugging
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Unminify](http://unminify.com/)
