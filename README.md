@@ -25,6 +25,8 @@
 - [WTF Forms](http://wtfforms.com/)
 - [Image Optimizer for Mac](https://imageoptim.com/mac)
 - [Responsive Data Tables, csstricks](https://css-tricks.com/responsive-data-table-roundup/)
+- [You Might Not Need Jquery](http://youmightnotneedjquery.com/)
+- [You Might Not Need Javascript](http://youmightnotneedjs.com/)
 
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
