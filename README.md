@@ -31,6 +31,7 @@
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
 - [See, Think, Design, Produce talk](http://style.org/stdp2/)
+- [Data is Plural spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
 ### debugging
 - [Oh Shit, Git](http://ohshitgit.com/)
