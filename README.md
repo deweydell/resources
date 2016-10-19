@@ -42,7 +42,7 @@
 - [Damon Zucconi](http://www.damonzucconi.com/)
   - [Palest.blue](http://palest.blue)
   - [Slow Verb](http://www.slowverb.com/)
-- [Recurse Center](https://www.recurse.com/) - Like a writer's workshop for programmers
+- [Recurse Center](https://www.recurse.com/)
 
 #### interactive web
 - [interactive national park exploration](artsandculture.withgoogle.com/nationalparks/)
