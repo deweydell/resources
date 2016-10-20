@@ -30,8 +30,10 @@
 
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
+- [Blocks Builder](http://blockbuilder.org/)
 - [See, Think, Design, Produce talk](http://style.org/stdp2/)
 - [Data is Plural spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [Visual Cinnamon](http://www.visualcinnamon.com/portfolio)
 
 ### debugging
 - [Oh Shit, Git](http://ohshitgit.com/)
