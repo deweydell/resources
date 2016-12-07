@@ -2,6 +2,7 @@
 
 ### remote work
 - [She Nomads](http://www.shenomads.com/)
+- [Remote Working Conference](http://remoteworkingconf.com/)
 - [Remote Co](https://remote.co/)
 
 ### productivity
