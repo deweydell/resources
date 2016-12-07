@@ -1,4 +1,9 @@
 # ✦ resources ✦ 
+
+### remote work
+- [She Nomads](http://www.shenomads.com/)
+- [Remote Co](https://remote.co/)
+
 ### productivity
 - [Sublime Tutorial](https://sublimetutor.com/)
 - [Pomodoro Focus Timer](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12)
