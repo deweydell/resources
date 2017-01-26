@@ -42,6 +42,9 @@
 - [Data is Plural spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 - [Visual Cinnamon](http://www.visualcinnamon.com/portfolio)
 
+### misc
+- [Keycode - press any key to find code](http://keycode.info/)
+
 ### debugging
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Unminify](http://unminify.com/)
