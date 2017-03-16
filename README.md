@@ -5,6 +5,10 @@
 - [Remote Working Conference](http://remoteworkingconf.com/)
 - [Remote Co](https://remote.co/)
 
+### privacy
+- [Proton Mail](https://protonmail.com/signup)
+- [Duck Duck Go](https://duckduckgo.com/)
+
 ### productivity
 - [Sublime Tutorial](https://sublimetutor.com/)
 - [Pomodoro Focus Timer](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12)
