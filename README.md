@@ -69,7 +69,8 @@
 - [The Nature of Code by Dan Shiffman](natureofcode.com)
 - [Javascript & Jquery by John Duckett](http://javascriptbook.com/)
 
-#### articles
+#### blogs/articles
+- [Ryan McMahon articles](http://www.rymcmahon.com/articles)
 - [What is Code by Paul Ford, bloomberg.com](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [How I learned to stop worrying and love HTTP by Jim Shields, codewords.recurse.com](https://codewords.recurse.com/issues/two/how-i-learned-to-stop-worrying-and-love-http)
 - [Git from the inside out by Mary Rose Cook, codewords.recurse.com](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
