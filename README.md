@@ -39,6 +39,7 @@
 - [You Might Not Need Javascript](http://youmightnotneedjs.com/)
 - [Tachyons](http://tachyons.io/)
 - [Web Gradients](https://webgradients.com/)
+- [Writing Modular CSS part 1](https://zellwk.com/blog/css-architecture-1/)
 
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
