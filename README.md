@@ -65,7 +65,12 @@
 #### interactive web
 - [interactive national park exploration](artsandculture.withgoogle.com/nationalparks/)
 
-### reading material
+### reading/listening material
+
+#### podcasts
+- [Shop Talk by Chris Coyier](https://shoptalkshow.com)
+- [Toolsday by Una Kravets](http://www.toolsday.io/)
+
 #### books
 - [The Nature of Code by Dan Shiffman](natureofcode.com)
 - [Javascript & Jquery by John Duckett](http://javascriptbook.com/)
