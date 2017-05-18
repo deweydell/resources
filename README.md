@@ -41,6 +41,7 @@
 - [Web Gradients](https://webgradients.com/)
 - [Writing Modular CSS part 1](https://zellwk.com/blog/css-architecture-1/)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
+- [Style Guide Examples](http://styleguides.io/examples)
 
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
