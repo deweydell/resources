@@ -65,6 +65,9 @@
   - [Slow Verb](http://www.slowverb.com/)
 - [Recurse Center](https://www.recurse.com/)
 
+#### for hiring
+- [Women Who Draw](http://www.womenwhodraw.com/)
+
 #### interactive web
 - [interactive national park exploration](artsandculture.withgoogle.com/nationalparks/)
 
