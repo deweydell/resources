@@ -44,6 +44,9 @@
 - [Style Guide Examples](http://styleguides.io/examples)
 - [A11y Project for Accessibility](http://a11yproject.com/)
 
+### rails
+- [Rails & Javascript Organization](https://railsapps.github.io/rails-javascript-include-external.html)
+
 ### data visualization
 - [Mick Bostock's blocks](https://bl.ocks.org/mbostock)
 - [Blocks Builder](http://blockbuilder.org/)
