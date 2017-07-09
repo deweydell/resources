@@ -8,6 +8,7 @@
 ### privacy
 - [Proton Mail](https://protonmail.com/signup)
 - [Duck Duck Go](https://duckduckgo.com/)
+- [Terms of Service Grader](https://tosdr.org/)
 
 ### productivity
 - [Sublime Tutorial](https://sublimetutor.com/)
