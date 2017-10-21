@@ -60,6 +60,7 @@
 ### misc
 - [Keycode - press any key to find code](http://keycode.info/)
 - [An Api for Everything List](https://www.producthunt.com/e/an-api-for-everything)
+- [Dev Hints Cheatsheets](https://devhints.io/)
 
 ### debugging
 - [Oh Shit, Git](http://ohshitgit.com/)
