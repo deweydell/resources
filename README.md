@@ -46,6 +46,7 @@
 - [Style Guide Examples](http://styleguides.io/examples)
 - [A11y Project for Accessibility](http://a11yproject.com/)
 - [Hero Patterns - svg bg generator](http://www.heropatterns.com/)
+- [Front End Checklist.io](https://frontendchecklist.io)
 
 ### rails
 - [Rails & Javascript Organization](https://railsapps.github.io/rails-javascript-include-external.html)
