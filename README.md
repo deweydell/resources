@@ -68,6 +68,7 @@
 - [Unminify](http://unminify.com/)
 
 ### art/creative
+- [Ekene Ijeoma](https://studioijeoma.com/)
 - [Olia Lialina](http://art.teleportacia.org/)
 - [Damon Zucconi](http://www.damonzucconi.com/)
   - [Palest.blue](http://palest.blue)
