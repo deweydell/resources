@@ -10,6 +10,7 @@
 - [Proton VPN](https://protonvpn.com/)
 - [Duck Duck Go](https://duckduckgo.com/)
 - [Terms of Service Grader](https://tosdr.org/)
+- [Deseat Me App](https://app.deseat.me/#) delete your accounts
 
 ### productivity
 - [Sublime Tutorial](https://sublimetutor.com/)
