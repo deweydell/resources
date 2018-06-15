@@ -78,6 +78,7 @@
   - [Palest.blue](http://palest.blue)
   - [Slow Verb](http://www.slowverb.com/)
 - [Recurse Center](https://www.recurse.com/)
+- [Generative Artistry](https://generativeartistry.com/)
 
 #### for hiring
 - [Women Who Draw](http://www.womenwhodraw.com/)
