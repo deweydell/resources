@@ -52,6 +52,12 @@
 - [CSS Wizardry](https://csswizardry.com/archive/)
 - [Bits of Code](https://bitsofco.de/)
 
+#### performance & accessibility
+- [Smashing Magazine Front End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- [Deque University Web Accessibility Training & Courses](https://dequeuniversity.com)
+- [Axe Browser Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)
+
 ### rails
 - [Rails & Javascript Organization](https://railsapps.github.io/rails-javascript-include-external.html)
 
