@@ -95,8 +95,11 @@
 ### reading/listening material
 
 #### podcasts
+- [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [Shop Talk by Chris Coyier](https://shoptalkshow.com)
 - [Toolsday by Una Kravets](http://www.toolsday.io/)
+- Syntax by Wes Bos
+- MDN IRL
 
 #### books
 - [The Nature of Code by Dan Shiffman](natureofcode.com)
