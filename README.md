@@ -94,6 +94,9 @@
 
 ### reading/listening material
 
+#### teachers/courses
+- [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured)
+
 #### podcasts
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [Shop Talk by Chris Coyier](https://shoptalkshow.com)
