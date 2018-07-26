@@ -115,3 +115,4 @@
 - [Git from the inside out by Mary Rose Cook, codewords.recurse.com](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [The Difference Between URLs and URIs, danielmiessler.com](https://danielmiessler.com/study/url-uri/)
 - [Your Brain on Front-End Development ](https://css-tricks.com/your-brain-on-front-end-development/)
+- [Website Design Mistakes](http://blog-en.tilda.cc/articles-website-design-mistakes)
