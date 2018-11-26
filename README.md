@@ -119,3 +119,5 @@
 - [Your Brain on Front-End Development ](https://css-tricks.com/your-brain-on-front-end-development/)
 - [Website Design Mistakes](http://blog-en.tilda.cc/articles-website-design-mistakes)
 - [On Fluence](http://basicbitch.software/posts/2018-09-30-On-Fluency.html)
+- [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+- [What exactly is the DOM](https://bitsofco.de/what-exactly-is-the-dom/)
