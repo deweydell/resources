@@ -19,6 +19,8 @@
 - [Pomodoro Focus Timer](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12)
 - [Dash](https://itunes.apple.com/us/app/dash-3-api-docs-snippets./id449589707?mt=12)
 - [Gitx](http://gitx.frim.nl/)
+- [Alfred](https://www.alfredapp.com/)
+- [Getting Things Done method](https://gettingthingsdone.com/five-steps/)
 
 #### sublime packages
 - [HTML-CSS-JS-Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
