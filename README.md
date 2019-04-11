@@ -1,4 +1,4 @@
-# ✦ resources ✦ 
+# ✦ resources 💅
 
 ### remote work
 - [She Nomads](http://www.shenomads.com/)
